@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++98-blue.svg" alt="Language">
-  <img src="text=Status-Completed-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Status">>
 </p>
 
 ## About the Project
